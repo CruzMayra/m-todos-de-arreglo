@@ -22,7 +22,7 @@
   ~~~
   function miMap(arreglo, callback){
 
-  	}
+  }
   ~~~
 
   3.  Crea tu propia función filter que funcione igual a   Array.filter. Algo asi:
@@ -30,7 +30,7 @@
   ~~~
   function miFilter(arreglo, filter){
 
-  	}
+  }
   ~~~
 
   4. Crea tu propia función reduce que funcione igual a   Array.reduce. Algo asi:
@@ -38,7 +38,7 @@
   ~~~
   function miReduce(arreglo, reduce){
 
-  	}
+  }
   ~~~
 
  ### Bonus
